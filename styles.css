@@ -30,6 +30,7 @@ body {
   h1 {
     font-size: 2rem;
     margin-bottom: 0;
+    text-align: center;
   }
   /* make images flexible */
   img {
@@ -85,7 +86,7 @@ body {
     margin: 0 auto;
     padding: 2rem;
     display: grid;
-    grid-template-columns: 0.75fr auto;
+    grid-template-columns: auto;
     border: 1px solid red;
   }
 
